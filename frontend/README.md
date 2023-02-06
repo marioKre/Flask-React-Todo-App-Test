@@ -1,3 +1,6 @@
+Todo simple web app with Python-Flask Backend and React Frontend to test setup and functionality.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
